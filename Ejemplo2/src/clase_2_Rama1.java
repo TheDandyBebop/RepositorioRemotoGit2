@@ -5,7 +5,9 @@ public class clase_2_Rama1 {
 
 		System.out.println("primer mensaje Rama 1");
 		System.out.println("Segundo mensaje Rama 1");
-
+		
+		System.out.println("Tercer mensaje Rama 1");
+		System.out.println("Cuarto mensaje Rama 1");
 	}
 
 }
